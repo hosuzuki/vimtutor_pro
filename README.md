@@ -1,1 +1,1 @@
-# vimtutor_mastery
+# Vimtutor Pro
