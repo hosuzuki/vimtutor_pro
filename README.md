@@ -14,3 +14,9 @@ echo "set nocompatible" > min_set.vim
 echo "filetype plugin on" >> min_set.vim
 vim -u min_set.vim
 ```
+
+To check the version of Vim, you can run the command below when using the Vim.
+```bash
+:version
+```
+
