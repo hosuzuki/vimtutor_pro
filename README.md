@@ -20,3 +20,7 @@ To check the version of Vim, you can run the command below when using the Vim.
 :version
 ```
 
+# dot command
+`.` command is to repeat the last change.
+
+The `x` command deletes the character under the cursor.
